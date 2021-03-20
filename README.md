@@ -11,4 +11,4 @@ yarn start # npm start
 yarn build # or npm run build
 ```
 
-> Esse repositório é um projeto do Ignite da rocketseat 📹 [Origamid](https://rocketseat.com.br/)
+> Esse repositório é um projeto do Ignite da 📹 [Rocketseat](https://rocketseat.com.br/)
